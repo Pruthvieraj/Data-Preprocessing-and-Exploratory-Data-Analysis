@@ -1,0 +1,101 @@
+,Id,gender,subscriber,name,rating
+0,102084633764755,female,True,Véronique Jacquet,3
+1,262001187283677,male,True,Alexandre Marques,4
+2,123923051608332,male,True,Théodore Boulanger-Potier,2
+3,28649838543515,female,True,Laure Guibert,2
+4,210212455635207,female,False,Brigitte de la Chevalier,5
+5,213215526585924,male,False,Auguste Gomez,2
+6,46574854112868,male,False,Charles Julien,4
+7,87848022218991,female,False,Anaïs Mallet,5
+8,135882647127119,male,False,Richard Verdier,2
+9,249734520166899,female,False,Émilie Ferrand Le Goncalves,3
+10,128809602599729,female,True,Victoire Joseph de Boucher,4
+11,60966734508155,male,False,Denis Pages-Imbert,3
+12,56830553725759,male,False,Jules Lopes-Perrier,4
+13,93075546295076,male,True,Yves-Jérôme Étienne,5
+14,90489850653926,female,True,Marianne Humbert,2
+15,55983815007531,male,False,Henri Fabre,2
+16,143248672910665,male,False,Alexandre Albert,5
+17,100074062633671,male,False,Paul Pereira,3
+18,274648707412395,male,False,Augustin Thomas,2
+19,38013654145111,female,False,Agathe de Gillet,2
+20,155807726852656,male,False,Étienne Ferreira,2
+21,33440226164624,female,True,Noémi Paris,1
+22,156776175229123,female,True,Margaud de Couturier,4
+23,181355617407426,female,False,Victoire Wagner,1
+24,160396676433760,male,False,Guy Roussel,5
+25,254346369907272,male,True,Alain Camus,4
+26,2128681063547,female,False,Anaïs Blot-De Oliveira,2
+27,8883693023770,na,True,Anouk Guyon-David,2
+28,142021219689380,female,True,Valérie du Jacques,4
+29,218787970728839,female,False,Margaux Dias,3
+30,279401611613009,female,True,Véronique-Luce Leroy,2
+31,127141635261243,female,False,Aimée Renault,1
+32,146039533627333,female,True,Claudine Letellier,3
+33,20359398794423,female,False,Adélaïde Ruiz,2
+34,232708943767669,female,False,Michèle Legros,1
+35,260713066164245,male,False,Honoré Dufour,2
+36,70814534768931,female,True,Julie Hamel,2
+37,60988815481519,female,True,Alexandria Jacques,4
+38,183550336708911,female,True,Monique Verdier-Nguyen,4
+39,151830444920793,female,False,Capucine Arnaud,2
+40,130893926760353,male,True,Philippe Maury,4
+41,233763123630038,female,False,Antoinette Guibert,4
+42,129705913223511,male,True,Robert Gaillard,2
+43,110407285890183,female,True,Manon de la Morvan,4
+44,228242228896781,female,False,Pauline Chevallier,2
+45,236088092803093,male,False,Emmanuel Henry,5
+46,99183951439502,male,True,Noël-Richard Launay,3
+47,215480822615497,male,False,Gilles Georges,3
+48,18293992661893,male,True,Étienne-Henri Vasseur,3
+49,60180161377801,female,False,Inès Barthelemy,4
+50,162667647980812,male,False,Alexandre-Laurent Leconte,1
+51,173665796200550,male,True,Rémy Allain,3
+52,86046288604892,male,True,Zacharie Gilles,5
+53,162193678941054,male,False,Augustin Martins,5
+54,56654069558782,na,True,Patrick Delattre-Carlier,1
+55,136151121187726,na,True,Antoine Thierry,3
+56,80744483199925,male,False,Gérard Descamps,1
+57,48303972391894,female,True,Catherine Blot,4
+58,258994278872461,female,False,Bernadette Blanchard-Devaux,2
+59,76358344234766,male,False,Thomas-Raymond Dumont,5
+60,205877103862745,female,True,Marie-Caroline Guillaume,2
+61,183231364611775,male,True,Pierre du Roger,4
+62,185361500861504,female,False,Martine Petit,3
+63,191600544196084,female,True,Alexandrie Imbert,5
+64,163121962837518,male,False,Gilles-Jérôme Boulay,4
+65,181299480488864,female,False,Suzanne Carlier,5
+66,78311750111477,female,True,Astrid Courtois,4
+67,162435586909232,female,True,Bernadette du Lévy,2
+68,69481418682680,female,False,Mathilde-Charlotte Gautier,2
+69,115705950793010,female,True,Clémence-Josette Gomes,4
+70,225150219490045,male,False,Laurent-William Klein,1
+71,25074935004800,male,False,Hugues-Roger Leblanc,3
+72,82771575969332,female,False,Jeanne Raymond,2
+73,96335333080755,female,True,Émilie Lefèvre,4
+74,37234876288518,female,True,Lucie-Camille Renaud,4
+75,165623423723826,female,True,Christine Le Lemonnier,2
+76,142812536895864,female,True,Emmanuelle Bourdon,2
+77,8207821020320,male,False,Laurent De Sousa,4
+78,211174260140954,female,True,Célina Besson,2
+79,2372236809733,female,False,Élisabeth Albert-Le Gall,3
+80,144294190177170,female,False,Alexandria Deschamps,2
+81,109052776094332,female,True,Anne-Hortense Robert,1
+82,203747503891217,female,False,Denise Carpentier,4
+83,125297221684288,na,True,Maggie Le Colin,1
+84,260951852420537,female,False,Marine Breton-Dumas,4
+85,137924216795537,female,True,Henriette Joseph,5
+86,10272123366779,male,True,Emmanuel Weiss,2
+87,250221155204651,na,False,Aimée Moreno,2
+88,237097564076318,female,True,Marcelle Parent,1
+89,182356245444373,male,False,Roland Blanc,4
+90,77511718978559,female,False,Valentine Hardy de Michel,2
+91,91675844530886,na,False,Philippe Thierry,5
+92,97420399864310,male,True,Maurice Maréchal,4
+93,198464088045346,male,False,Bernard Fleury,3
+94,176440478157155,male,True,Théodore Fournier,5
+95,100500626708360,male,False,Roland Raynaud-Gillet,1
+96,262595576381613,male,True,Laurent Leclercq Le Fouquet,5
+97,170464717525516,female,True,Marie Launay-Guilbert,4
+98,68888051530247,male,False,Joseph Guillon,1
+99,105273921495308,male,True,Théodore De Oliveira,4
